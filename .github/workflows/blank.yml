@@ -37,3 +37,5 @@ jobs:
           touch test1.txt
           echo hello > test1.txt
           cat test1.txt
+          ls
+          cat README.md
