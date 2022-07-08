@@ -34,3 +34,6 @@ jobs:
         run: |
           echo Add other actions to build,
           echo test, and deploy your project.
+          touch test1.txt
+          echo hello > test1.txt
+          cat test1.txt
