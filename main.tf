@@ -51,6 +51,7 @@ resource "aws_security_group" "main" {
   ]
 }
 
+/*
 resource "aws_iam_user" "ExList" {
 
   #count = length(var.users)
